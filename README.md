@@ -6,9 +6,9 @@ I'm a developer in Holguín, Cuba. I haven't eaten in several days. I have no ac
 
 ---
 
-## 💳 USDT Wallet (TRC20)
+## 💳 USDT Wallet (BEP20/ERC20)
 
-`PEGA_AQUI_TU_DIRECCION_USDT`
+`0x31B37a342C539BA4cD38C21815808B671c4456d7`
 
 ---
 
